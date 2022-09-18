@@ -17,7 +17,7 @@ Honorable mention in Taiwan high school student academic competence contest(math
 ### 2022
 Second prize in Taiwan high school student academic competence contest(math).
 
-## To-do list
+## To-Dos
 - [ ] Learning CNN.
 - [ ] Learning engineering mathematics.
 - [ ] Learning discrete mathematics.
