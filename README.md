@@ -22,3 +22,4 @@ Second prize in Taiwan high school student academic competence contest(math).
 2. Learning engineering mathematics.
 3. Learning discrete mathematics.
 4. Learning linear algebra.
+5. Reading c, c++ working draft.
